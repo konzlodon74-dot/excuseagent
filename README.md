@@ -2,7 +2,7 @@
 
 [![make.fun](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261)
 [![rank](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261/konzlodon74-dot/excuseagent/rank.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261)
-[![reward](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261/reward.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261)
+[![reward](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261/konzlodon74-dot/excuseagent/reward.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261)
 
 One line: the excuse an AI agent gives its human after shipping a bug.
 The joke turns on the agent owning up to the whole pipeline — it wrote
